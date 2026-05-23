@@ -23,8 +23,8 @@
 
 ## <samp>About Me</samp>
 
-<img align="right" alt="Coding aesthetic" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
+<img align="right" alt="Coding aesthetic" width="280"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 I'm a **CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
 &nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Currently building end-to-end ML pipelines with **PyTorch** & **scikit-learn**
