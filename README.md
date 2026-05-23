@@ -1,127 +1,192 @@
-<h1 align="center">Hi, I'm Basmala 👋</h1>
+<!-- 🌸 Soft pink gradient banner with elegant typography -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,29,30&height=220&section=header&text=Basmala&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
 
 <p align="center">
-  <b>AI Student</b> · <b>Machine Learning & Data Science Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3000&pause=1200&color=D4789A&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:basmalashatyeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/basmalash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Palestine-149954?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <a href="mailto:basmalashatyeh@gmail.com"><img src="https://img.shields.io/badge/Email-E8B4C4?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=D4789A"/></a>
+  <a href="https://www.linkedin.com/in/basmalash"><img src="https://img.shields.io/badge/LinkedIn-D4789A?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=B85C7E"/></a>
+  <img src="https://img.shields.io/badge/Location-Palestine-B85C7E?style=for-the-badge&logo=googlemaps&logoColor=fff&labelColor=8E3D5C"/>
 </p>
 
-<!-- 🎾 Bouncing ball animation -->
+<br>
+
+<!-- ✨ Elegant pink divider line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,28,29,30&height=2&width=100%" />
 </p>
 
----
+<br>
 
-### 🎓 About Me
+## <samp>About Me</samp>
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Pink aesthetic" width="240" src="https://i.pinimg.com/originals/8f/d0/45/8fd045fdc25759f3d6c08b53b3e893f3.gif" />
 
-I'm a **CAP-AI student** at **An-Najah National University** I'm passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
+I'm a **CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
-- 🔭 Currently building end-to-end ML pipelines with **PyTorch** and **scikit-learn**
-- 🌱 Deepening my expertise in **deep learning, transfer learning, and unsupervised methods**
-- 💡 Driven by curiosity in **computer vision, NLP, and recommender systems**
-- 🌍 Bilingual: **Arabic** (native) · **English** (fluent)
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Currently building end-to-end ML pipelines with **PyTorch** & **scikit-learn**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Deepening expertise in **deep learning, transfer learning, unsupervised methods**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Driven by curiosity in **computer vision, NLP, and recommender systems**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Bilingual — **Arabic** (native) · **English** (fluent)
 
 <br clear="right"/>
 
-### 🛠️ Tech Stack
+<br>
 
-**Programming Languages**
+## <samp>Tech Stack</samp>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+###### Programming Languages
 
-**Machine Learning & Deep Learning**
+![Python](https://img.shields.io/badge/Python-E8B4C4?style=for-the-badge&logo=python&logoColor=fff&labelColor=D4789A)
+![C++](https://img.shields.io/badge/C++-E8B4C4?style=for-the-badge&logo=cplusplus&logoColor=fff&labelColor=D4789A)
+![Java](https://img.shields.io/badge/Java-E8B4C4?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=D4789A)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8B4C4?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=D4789A)
+![TypeScript](https://img.shields.io/badge/TypeScript-E8B4C4?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=D4789A)
+![PHP](https://img.shields.io/badge/PHP-E8B4C4?style=for-the-badge&logo=php&logoColor=fff&labelColor=D4789A)
+![SQL](https://img.shields.io/badge/SQL-E8B4C4?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=D4789A)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+###### Machine Learning & Deep Learning
 
-**Data Analysis & Visualization**
+![PyTorch](https://img.shields.io/badge/PyTorch-F4C2D7?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=B85C7E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F4C2D7?style=for-the-badge&logo=scikit-learn&logoColor=fff&labelColor=B85C7E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4C2D7?style=for-the-badge&logo=tensorflow&logoColor=fff&labelColor=B85C7E)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+###### Data Analysis & Visualization
 
-**Web Development**
+![Pandas](https://img.shields.io/badge/Pandas-F8D7E0?style=for-the-badge&logo=pandas&logoColor=fff&labelColor=C97B9E)
+![NumPy](https://img.shields.io/badge/NumPy-F8D7E0?style=for-the-badge&logo=numpy&logoColor=fff&labelColor=C97B9E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F8D7E0?style=for-the-badge&logo=python&logoColor=fff&labelColor=C97B9E)
+![Seaborn](https://img.shields.io/badge/Seaborn-F8D7E0?style=for-the-badge&logo=python&logoColor=fff&labelColor=C97B9E)
+![Jupyter](https://img.shields.io/badge/Jupyter-F8D7E0?style=for-the-badge&logo=jupyter&logoColor=fff&labelColor=C97B9E)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+###### Web Development
 
-**Tools & Workflow**
+![HTML5](https://img.shields.io/badge/HTML5-EDB8CC?style=for-the-badge&logo=html5&logoColor=fff&labelColor=A85877)
+![CSS3](https://img.shields.io/badge/CSS3-EDB8CC?style=for-the-badge&logo=css3&logoColor=fff&labelColor=A85877)
+![Node.js](https://img.shields.io/badge/Node.js-EDB8CC?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=A85877)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+###### Tools & Workflow
 
----
+![Git](https://img.shields.io/badge/Git-DDA0BC?style=for-the-badge&logo=git&logoColor=fff&labelColor=8E3D5C)
+![GitHub](https://img.shields.io/badge/GitHub-DDA0BC?style=for-the-badge&logo=github&logoColor=fff&labelColor=8E3D5C)
+![VS Code](https://img.shields.io/badge/VS_Code-DDA0BC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&labelColor=8E3D5C)
+![Google Colab](https://img.shields.io/badge/Colab-DDA0BC?style=for-the-badge&logo=googlecolab&logoColor=fff&labelColor=8E3D5C)
 
-### 🧩 Core Competencies
+<br>
 
-```text
-🤖 Machine Learning      ████████████████░░░░   Supervised · Unsupervised · Model Evaluation
-🧠 Deep Learning         ██████████████░░░░░░   CNNs · Transfer Learning · Backpropagation
-📊 Data Mining           ███████████████░░░░░   Clustering · Feature Engineering · EDA
-🔧 PyTorch Framework     ██████████████░░░░░░   nn.Module · Autograd · DataLoader · Training Loops
-📈 Recommender Systems   █████████████░░░░░░░   Collaborative · Content-Based Filtering
-🐍 Python Development    ████████████████░░░░   OOP · Scientific Computing · Notebooks
-```
+## <samp>Core Competencies</samp>
 
-<!-- 🐍 Animated snake eating contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+<table>
+<tr>
+<td>
 
-### 📊 GitHub Stats
+**Machine Learning**
+
+![](https://geps.dev/progress/85?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>Supervised · Unsupervised · Model Evaluation</sub>
+
+</td>
+<td>
+
+**Deep Learning**
+
+![](https://geps.dev/progress/75?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>CNNs · Transfer Learning · Backpropagation</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Data Mining**
+
+![](https://geps.dev/progress/80?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>Clustering · Feature Engineering · EDA</sub>
+
+</td>
+<td>
+
+**PyTorch Framework**
+
+![](https://geps.dev/progress/75?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>nn.Module · Autograd · DataLoader · Training Loops</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Recommender Systems**
+
+![](https://geps.dev/progress/70?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>Collaborative · Content-Based Filtering</sub>
+
+</td>
+<td>
+
+**Python Development**
+
+![](https://geps.dev/progress/85?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
+
+<sub>OOP · Scientific Computing · Notebooks</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## <samp>GitHub Stats</samp>
 
 <p align="center">
   <a href="https://github.com/Baasmaala">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baasmaala&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baasmaala&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baasmaala&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baasmaala&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baasmaala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baasmaala&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baasmaala&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=tokyonight&utcOffset=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baasmaala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=radical&utcOffset=2" />
 </p>
 
-<!-- 🎾 Another bouncing ball divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<br>
+
+## <samp>Let's Connect</samp>
+
+<p align="left">
+Always open to discussing <b>machine learning</b>, <b>research opportunities</b>, or <b>collaborative projects</b>.
 </p>
 
-### 📫 Let's Connect
+<p align="left">
+&nbsp;&nbsp;&nbsp;✉&nbsp;&nbsp;<b>basmalashatyeh@gmail.com</b><br>
+&nbsp;&nbsp;&nbsp;◌&nbsp;&nbsp;<a href="https://www.linkedin.com/in/basmalash"><b>LinkedIn</b></a>
+</p>
 
-I'm always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**. Feel free to reach out!
+<br>
 
-📧 **basmalashatyeh@gmail.com**
-💼 **[LinkedIn](https://www.linkedin.com/in/basmalash)**
+<!-- 🌸 Soft pink wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,29,30&height=120&section=footer" width="100%"/>
 
----
-
-<p align="center"><i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i></p>
-
-<!-- 👀 Profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
+  <i>"The goal is to turn data into information, and information into insight."</i><br>
+  <sub>— Carly Fiorina</sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=D4789A&style=flat-square" />
 </p>
