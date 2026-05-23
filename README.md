@@ -80,7 +80,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 ---
 
-## <samp>✨ Core Competencies</samp>
+## <samp> Core Competencies</samp>
 
 <table>
 <tr>
@@ -150,7 +150,6 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baasmaala&theme=react&hide_border=true&bg_color=FFF0F5&color=D4789A&line=B85C7E&point=8E3D5C&area=true&area_color=F4C2D7" width="98%"/>
 </p>
-## <samp>💌 Let's Connect</samp>
 
 <p align="center">
   Always open to discussing <b>machine learning</b>, <b>research opportunities</b>, or <b>collaborative projects</b>.
