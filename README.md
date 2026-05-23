@@ -150,8 +150,6 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baasmaala&theme=react&hide_border=true&bg_color=FFF0F5&color=D4789A&line=B85C7E&point=8E3D5C&area=true&area_color=F4C2D7" width="98%"/>
 </p>
-
-
 ## <samp>💌 Let's Connect</samp>
 
 <p align="center">
@@ -174,12 +172,9 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 <br>
 
+<!-- 🌸 Pink twinkling wave -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122003-1c759d9e-9c52-4ca7-b9da-83a6e1bd5c30.png" width="40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,23&height=120&section=footer&text=&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
@@ -188,9 +183,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d6e4d0d4d8a8.gif" width="60"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="60%" height="3"/>
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d6e4d0d4d8a8.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80%" height="3"/>
 </p>
 
 <p align="center">
@@ -198,5 +191,4 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
   <img src="https://img.shields.io/github/followers/Baasmaala?label=Followers&style=flat-square&color=D4789A&labelColor=B85C7E"/>
 </p>
 
-<p align="center">
-</p>
+
