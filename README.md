@@ -1,7 +1,6 @@
 <!-- 🌸 Pink banner using GitHub-hosted SVG -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-d2e8a48b-7740-4156-ba91-9be3866b167b.gif" width="100%" height="180" style="object-fit: cover;"/>
-</p>
+<img align="right" alt="Coding aesthetic" width="280"
+src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=50&duration=4000&pause=1500&color=D4789A&center=true&vCenter=true&width=600&height=80&lines=Basmala" alt="Basmala" />
