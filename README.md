@@ -1,8 +1,14 @@
-<!-- 🌸 Soft pink gradient banner with elegant typography -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,29,30&height=220&section=header&text=Basmala&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning&descAlignY=60&descAlign=50&descSize=18" width="100%"/>
+<!-- 🌸 Pink banner using GitHub-hosted SVG -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-d2e8a48b-7740-4156-ba91-9be3866b167b.gif" width="100%" height="180" style="object-fit: cover;"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=50&duration=4000&pause=1500&color=D4789A&center=true&vCenter=true&width=600&height=80&lines=Basmala" alt="Basmala" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3000&pause=1200&color=D4789A&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1200&color=B85C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,16 +19,11 @@
 
 <br>
 
-<!-- ✨ Elegant pink divider line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,28,29,30&height=2&width=100%" />
-</p>
+---
 
-<br>
+## <samp>🌸 About Me</samp>
 
-## <samp>About Me</samp>
-
-<img align="right" alt="Pink aesthetic" width="240" src="https://i.pinimg.com/originals/8f/d0/45/8fd045fdc25759f3d6c08b53b3e893f3.gif" />
+<img align="right" alt="Coding aesthetic" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 I'm a **CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
@@ -36,9 +37,9 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 <br clear="right"/>
 
-<br>
+---
 
-## <samp>Tech Stack</samp>
+## <samp>🎀 Tech Stack</samp>
 
 ###### Programming Languages
 
@@ -77,13 +78,13 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 ![VS Code](https://img.shields.io/badge/VS_Code-DDA0BC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&labelColor=8E3D5C)
 ![Google Colab](https://img.shields.io/badge/Colab-DDA0BC?style=for-the-badge&logo=googlecolab&logoColor=fff&labelColor=8E3D5C)
 
-<br>
+---
 
-## <samp>Core Competencies</samp>
+## <samp>✨ Core Competencies</samp>
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 **Machine Learning**
 
@@ -92,7 +93,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 <sub>Supervised · Unsupervised · Model Evaluation</sub>
 
 </td>
-<td>
+<td width="50%">
 
 **Deep Learning**
 
@@ -118,7 +119,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 ![](https://geps.dev/progress/75?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
-<sub>nn.Module · Autograd · DataLoader · Training Loops</sub>
+<sub>nn.Module · Autograd · DataLoader · Training</sub>
 
 </td>
 </tr>
@@ -144,9 +145,9 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </tr>
 </table>
 
-<br>
+---
 
-## <samp>GitHub Stats</samp>
+## <samp>📊 GitHub Stats</samp>
 
 <p align="center">
   <a href="https://github.com/Baasmaala">
@@ -164,23 +165,16 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=radical&utcOffset=2" />
 </p>
 
-<br>
+---
 
-## <samp>Let's Connect</samp>
+## <samp>💌 Let's Connect</samp>
 
-<p align="left">
-Always open to discussing <b>machine learning</b>, <b>research opportunities</b>, or <b>collaborative projects</b>.
-</p>
+Always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**.
 
-<p align="left">
-&nbsp;&nbsp;&nbsp;✉&nbsp;&nbsp;<b>basmalashatyeh@gmail.com</b><br>
-&nbsp;&nbsp;&nbsp;◌&nbsp;&nbsp;<a href="https://www.linkedin.com/in/basmalash"><b>LinkedIn</b></a>
-</p>
+&nbsp;&nbsp;&nbsp;✉&nbsp;&nbsp;**basmalashatyeh@gmail.com**
+&nbsp;&nbsp;&nbsp;◌&nbsp;&nbsp;[**LinkedIn**](https://www.linkedin.com/in/basmalash)
 
 <br>
-
-<!-- 🌸 Soft pink wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,29,30&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight."</i><br>
