@@ -21,7 +21,7 @@
 
 ---
 
-## <samp>🌸 About Me</samp>
+## <samp>About Me</samp>
 
 <img align="right" alt="Coding aesthetic" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
@@ -39,7 +39,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 ---
 
-## <samp>🎀 Tech Stack</samp>
+## <samp>Tech Stack</samp>
 
 ###### Programming Languages
 
@@ -146,32 +146,13 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </table>
 
 ---
-<!-- 🌸 Contribution graph -->
+<!--  Contribution graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baasmaala&theme=react&hide_border=true&bg_color=FFF0F5&color=D4789A&line=B85C7E&point=8E3D5C&area=true&area_color=F4C2D7" width="98%"/>
 </p>
 
-## <samp>📊 GitHub Stats</samp>
 
-<p align="center">
-  <a href="https://github.com/Baasmaala">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baasmaala&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baasmaala&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baasmaala&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baasmaala&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=radical&utcOffset=2" />
-</p>
-
----
-
-## <samp>💌 Let's Connect</samp>
+## <samp>Let's Connect</samp>
 
 Always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**.
 
