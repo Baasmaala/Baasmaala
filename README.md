@@ -1,18 +1,43 @@
-<!-- 🌸 Pink banner using GitHub-hosted SVG -->
-<img align="right" alt="Coding aesthetic" width="280"
-src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif" />
+<!-- 🌸 Pink banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-d2e8a48b-7740-4156-ba91-9be3866b167b.gif"
+       width="100%"
+       height="180"
+       style="object-fit: cover;"/>
+</p>
+
+<!-- 💻 Cute coding gif -->
+<p align="center">
+  <img
+    src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif"
+    width="260"
+  />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=50&duration=4000&pause=1500&color=D4789A&center=true&vCenter=true&width=600&height=80&lines=Basmala" alt="Basmala" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=50&duration=4000&pause=1500&color=D4789A&center=true&vCenter=true&width=600&height=80&lines=Basmala"
+       alt="Basmala" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1200&color=B85C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1200&color=B85C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity"
+       alt="Typing SVG" />
 </p>
 
+<!-- 🌸 Socials -->
 <p align="center">
-  <a href="mailto:basmalashatyeh@gmail.com"><img src="https://img.shields.io/badge/Email-E8B4C4?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=D4789A"/></a>
-  <a href="https://www.linkedin.com/in/basmalash"><img src="https://img.shields.io/badge/LinkedIn-D4789A?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=B85C7E"/></a>
+  <a href="mailto:basmalashatyeh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E8B4C4?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=D4789A"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/basmalash">
+    <img src="https://img.shields.io/badge/LinkedIn-D4789A?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=B85C7E"/>
+  </a>
+
+  <a href="https://bshaportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-F4C2D7?style=for-the-badge&logo=firefox&logoColor=fff&labelColor=B85C7E"/>
+  </a>
+
   <img src="https://img.shields.io/badge/Location-Palestine-B85C7E?style=for-the-badge&logo=googlemaps&logoColor=fff&labelColor=8E3D5C"/>
 </p>
 
@@ -22,9 +47,12 @@ src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif" />
 
 ## <samp>About Me</samp>
 
-<img align="right" alt="Coding aesthetic" width="280"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-I'm a **CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
+<img align="right"
+     alt="Coding aesthetic"
+     width="280"
+     src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif" />
+
+I'm a **third-year CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
 &nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Currently building end-to-end ML pipelines with **PyTorch** & **scikit-learn**
 
@@ -102,6 +130,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 </td>
 </tr>
+
 <tr>
 <td>
 
@@ -112,6 +141,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 <sub>Clustering · Feature Engineering · EDA</sub>
 
 </td>
+
 <td>
 
 **PyTorch Framework**
@@ -122,6 +152,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 
 </td>
 </tr>
+
 <tr>
 <td>
 
@@ -132,6 +163,7 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 <sub>Collaborative · Content-Based Filtering</sub>
 
 </td>
+
 <td>
 
 **Python Development**
@@ -145,9 +177,10 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </table>
 
 ---
-<!--  Contribution graph -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baasmaala&theme=react&hide_border=true&bg_color=FFF0F5&color=D4789A&line=B85C7E&point=8E3D5C&area=true&area_color=F4C2D7" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baasmaala&theme=react&hide_border=true&bg_color=FFF0F5&color=D4789A&line=B85C7E&point=8E3D5C&area=true&area_color=F4C2D7"
+       width="98%"/>
 </p>
 
 <p align="center">
@@ -158,21 +191,31 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
   <a href="mailto:basmalashatyeh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D4789A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B85C7E"/>
   </a>
+
   &nbsp;
+
   <a href="https://www.linkedin.com/in/basmalash">
     <img src="https://img.shields.io/badge/LinkedIn-B85C7E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E3D5C"/>
   </a>
+
   &nbsp;
+
   <a href="https://github.com/Baasmaala">
     <img src="https://img.shields.io/badge/GitHub-8E3D5C?style=for-the-badge&logo=github&logoColor=white&labelColor=6B2A45"/>
+  </a>
+
+  &nbsp;
+
+  <a href="https://bshaportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-F4C2D7?style=for-the-badge&logo=firefox&logoColor=white&labelColor=B85C7E"/>
   </a>
 </p>
 
 <br>
 
-<!-- 🌸 Pink twinkling wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,23&height=120&section=footer&text=&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,23&height=120&section=footer&text=&animation=twinkling"
+       width="100%"/>
 </p>
 
 <p align="center">
@@ -181,12 +224,13 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="80%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
+       width="80%"
+       height="3"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=D4789A&style=flat-square" />
+
   <img src="https://img.shields.io/github/followers/Baasmaala?label=Followers&style=flat-square&color=D4789A&labelColor=B85C7E"/>
 </p>
-
-
