@@ -47,11 +47,12 @@
 
 ## <samp>About Me</samp>
 
-<img align="right"
-     alt="Coding aesthetic"
-     width="280"
-     src="https://media.tenor.com/L95WmEymvXcAAAAC/anime-computer.gif" />
-
+<p align="center">
+  <img
+    src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
+    width="320"
+  />
+</p>
 I'm a **third-year CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
 &nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Currently building end-to-end ML pipelines with **PyTorch** & **scikit-learn**
