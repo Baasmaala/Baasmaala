@@ -14,7 +14,7 @@
 
 ### 🎓 About Me
 
-I'm a **CAP-AI student** at **An-Najah National University**, specializing in **Advanced Machine Learning** under Dr. Adnan Salman. I'm passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
+I'm a **CAP-AI student** at **An-Najah National University** I'm passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
 - 🔭 Currently building end-to-end ML pipelines with **PyTorch** and **scikit-learn**
 - 🌱 Deepening my expertise in **deep learning, transfer learning, and unsupervised methods**
