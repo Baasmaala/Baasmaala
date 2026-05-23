@@ -1,96 +1,63 @@
-<!-- 🌸 Animated pink wave header -->
+<!-- 🌸 Pink banner using GitHub-hosted SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=220&section=header&text=Basmala%20✿&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20in%20the%20making&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-d2e8a48b-7740-4156-ba91-9be3866b167b.gif" width="100%" height="180" style="object-fit: cover;"/>
 </p>
 
-<!-- ✨ Animated typing intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=50&duration=4000&pause=1500&color=D4789A&center=true&vCenter=true&width=600&height=80&lines=Basmala" alt="Basmala" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=28&duration=3000&pause=1000&color=D4789A&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Basmala+%E2%9C%BF;Crafting+intelligent+systems+with+a+touch+of+pink;Where+data+meets+creativity+%F0%9F%8C%B8" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=3000&pause=1200&color=B85C7E&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+GitHub;Crafting+intelligent+systems;Where+data+meets+creativity" alt="Typing SVG" />
 </p>
 
-<!-- 🌷 Floating sparkle divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
-</p>
-
-<!-- 💌 Social badges with hover-style gradient -->
-<p align="center">
-  <a href="mailto:basmalashatyeh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E8B4C4?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=D4789A" />
-  </a>
-  <a href="https://www.linkedin.com/in/basmalash">
-    <img src="https://img.shields.io/badge/LinkedIn-D4789A?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=B85C7E" />
-  </a>
-  <img src="https://img.shields.io/badge/📍_Palestine-B85C7E?style=for-the-badge&labelColor=8E3D5C" />
-  <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Visitors&color=D4789A&style=for-the-badge" />
+  <a href="mailto:basmalashatyeh@gmail.com"><img src="https://img.shields.io/badge/Email-E8B4C4?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=D4789A"/></a>
+  <a href="https://www.linkedin.com/in/basmalash"><img src="https://img.shields.io/badge/LinkedIn-D4789A?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=B85C7E"/></a>
+  <img src="https://img.shields.io/badge/Location-Palestine-B85C7E?style=for-the-badge&logo=googlemaps&logoColor=fff&labelColor=8E3D5C"/>
 </p>
 
 <br>
 
+---
+
 ## <samp>🌸 About Me</samp>
 
-<img align="right" alt="Coding aesthetic" width="320" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="Coding aesthetic" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-```yaml
-name: Basmala
-role: CAP-AI Student @ An-Najah National University
-focus: 
-  - 🧠 Deep Learning & Neural Networks
-  - 🔍 Data Mining & Clustering
-  - 🤖 Recommender Systems
-  - 🎨 Computer Vision
-currently_learning:
-  - Transfer Learning strategies
-  - Building end-to-end ML pipelines
-languages: [Arabic 🇵🇸, English 🌍]
-fun_fact: I think in PyTorch and dream in pink 🌷
-```
+I'm a **CAP-AI student** at **An-Najah National University**, passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Currently building end-to-end ML pipelines with **PyTorch** & **scikit-learn**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Deepening expertise in **deep learning, transfer learning, unsupervised methods**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Driven by curiosity in **computer vision, NLP, and recommender systems**
+
+&nbsp;&nbsp;&nbsp;⌗&nbsp;&nbsp;Bilingual — **Arabic** (native) · **English** (fluent)
 
 <br clear="right"/>
 
-<!-- 💫 Glitter divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-</p>
-
-## <samp>🎀 What I'm Up To</samp>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60"/>
-      <br><b>Now</b><br>
-      <sub>Clustering on Iris<br>Hungarian algorithm fix</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="60"/>
-      <br><b>Next</b><br>
-      <sub>Transfer learning<br>ResNet50 vs MobileNetV2</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223143-0d3a3ed1-fa42-46b3-aacc-f6ad549c5dc7.gif" width="60"/>
-      <br><b>Dreaming Of</b><br>
-      <sub>Building production<br>ML systems</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- 🌷 Pink wave -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="3"/>
-</p>
+---
 
 ## <samp>🎀 Tech Stack</samp>
 
-<div align="center">
+###### Programming Languages
 
-###### 💻 Languages I Speak (to Computers)
+![Python](https://img.shields.io/badge/Python-E8B4C4?style=for-the-badge&logo=python&logoColor=fff&labelColor=D4789A)
+![C++](https://img.shields.io/badge/C++-E8B4C4?style=for-the-badge&logo=cplusplus&logoColor=fff&labelColor=D4789A)
+![Java](https://img.shields.io/badge/Java-E8B4C4?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=D4789A)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8B4C4?style=for-the-badge&logo=javascript&logoColor=fff&labelColor=D4789A)
+![TypeScript](https://img.shields.io/badge/TypeScript-E8B4C4?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=D4789A)
+![PHP](https://img.shields.io/badge/PHP-E8B4C4?style=for-the-badge&logo=php&logoColor=fff&labelColor=D4789A)
+![SQL](https://img.shields.io/badge/SQL-E8B4C4?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=D4789A)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,php,mysql&theme=light" />
+###### Machine Learning & Deep Learning
 
-###### 🧠 Machine Learning Arsenal
+![PyTorch](https://img.shields.io/badge/PyTorch-F4C2D7?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=B85C7E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F4C2D7?style=for-the-badge&logo=scikit-learn&logoColor=fff&labelColor=B85C7E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4C2D7?style=for-the-badge&logo=tensorflow&logoColor=fff&labelColor=B85C7E)
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=light" />
+###### Data Analysis & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-F8D7E0?style=for-the-badge&logo=pandas&logoColor=fff&labelColor=C97B9E)
 ![NumPy](https://img.shields.io/badge/NumPy-F8D7E0?style=for-the-badge&logo=numpy&logoColor=fff&labelColor=C97B9E)
@@ -98,16 +65,20 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 ![Seaborn](https://img.shields.io/badge/Seaborn-F8D7E0?style=for-the-badge&logo=python&logoColor=fff&labelColor=C97B9E)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F8D7E0?style=for-the-badge&logo=jupyter&logoColor=fff&labelColor=C97B9E)
 
-###### 🌐 Web & Tools
+###### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode&theme=light" />
+![HTML5](https://img.shields.io/badge/HTML5-EDB8CC?style=for-the-badge&logo=html5&logoColor=fff&labelColor=A85877)
+![CSS3](https://img.shields.io/badge/CSS3-EDB8CC?style=for-the-badge&logo=css3&logoColor=fff&labelColor=A85877)
+![Node.js](https://img.shields.io/badge/Node.js-EDB8CC?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=A85877)
 
-</div>
+###### Tools & Workflow
 
-<!-- 🌸 Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="3"/>
-</p>
+![Git](https://img.shields.io/badge/Git-DDA0BC?style=for-the-badge&logo=git&logoColor=fff&labelColor=8E3D5C)
+![GitHub](https://img.shields.io/badge/GitHub-DDA0BC?style=for-the-badge&logo=github&logoColor=fff&labelColor=8E3D5C)
+![VS Code](https://img.shields.io/badge/VS_Code-DDA0BC?style=for-the-badge&logo=visualstudiocode&logoColor=fff&labelColor=8E3D5C)
+![Google Colab](https://img.shields.io/badge/Colab-DDA0BC?style=for-the-badge&logo=googlecolab&logoColor=fff&labelColor=8E3D5C)
+
+---
 
 ## <samp>✨ Core Competencies</samp>
 
@@ -115,7 +86,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 <tr>
 <td width="50%">
 
-**🧠 Machine Learning**
+**Machine Learning**
 
 ![](https://geps.dev/progress/85?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -124,7 +95,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 </td>
 <td width="50%">
 
-**🔮 Deep Learning**
+**Deep Learning**
 
 ![](https://geps.dev/progress/75?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -135,7 +106,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 <tr>
 <td>
 
-**⛏️ Data Mining**
+**Data Mining**
 
 ![](https://geps.dev/progress/80?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -144,7 +115,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 </td>
 <td>
 
-**🔥 PyTorch**
+**PyTorch Framework**
 
 ![](https://geps.dev/progress/75?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -155,7 +126,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 <tr>
 <td>
 
-**🎯 Recommender Systems**
+**Recommender Systems**
 
 ![](https://geps.dev/progress/70?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -164,7 +135,7 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 </td>
 <td>
 
-**🐍 Python**
+**Python Development**
 
 ![](https://geps.dev/progress/85?dangerColor=D4789A&warningColor=D4789A&successColor=D4789A)
 
@@ -174,90 +145,42 @@ fun_fact: I think in PyTorch and dream in pink 🌷
 </tr>
 </table>
 
-<!-- 🌷 Sparkle line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="3"/>
-</p>
+---
 
-## <samp>📊 GitHub Universe</samp>
+## <samp>📊 GitHub Stats</samp>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baasmaala&show_icons=true&count_private=true&hide_border=true&title_color=D4789A&icon_color=B85C7E&text_color=8E3D5C&bg_color=FFF0F5" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baasmaala&hide_border=true&background=FFF0F5&stroke=D4789A&ring=D4789A&fire=B85C7E&currStreakLabel=8E3D5C&sideLabels=8E3D5C&currStreakNum=B85C7E&sideNums=B85C7E&dates=8E3D5C" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baasmaala&layout=compact&hide_border=true&title_color=D4789A&text_color=8E3D5C&bg_color=FFF0F5&langs_count=8" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=radical&utcOffset=2" height="180" />
+  <a href="https://github.com/Baasmaala">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baasmaala&theme=radical" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baasmaala&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baasmaala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baasmaala&theme=radical" />
 </p>
 
-<!-- 🌸 Contribution snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Baasmaala&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=radical&utcOffset=2" />
 </p>
 
-<!-- 💖 Floral divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-</p>
+---
 
-## <samp>🌷 A Little More About Me</samp>
+## <samp>💌 Let's Connect</samp>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**.
 
-**🎀 Off-screen, you'll find me...**
-- 🎵 Lost in a good playlist
-- 👗 Geeking out over fashion details  
-- 🌍 Practicing languages (Sonya dialogue program!)
-- 📚 Reading about ideas bigger than me
+&nbsp;&nbsp;&nbsp;✉&nbsp;&nbsp;**basmalashatyeh@gmail.com**
+&nbsp;&nbsp;&nbsp;◌&nbsp;&nbsp;[**LinkedIn**](https://www.linkedin.com/in/basmalash)
 
-</td>
-<td width="50%" valign="top">
-
-**💭 Philosophy**
-- Build things that matter
-- Stay curious, stay kind
-- Document everything in pretty notebooks
-- Coffee + code = magic ✨
-
-</td>
-</tr>
-</table>
-
-<!-- 🌸 Quote section -->
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<!-- 💌 Connect -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="3"/>
-</p>
-
-## <samp>💌 Let's Build Something Together</samp>
-
-<p align="center">
-  Always open to chatting about <b>machine learning</b> 🧠, <b>research</b> 📚, or <b>creative collabs</b> 🎨
+  <i>"The goal is to turn data into information, and information into insight."</i><br>
+  <sub>— Carly Fiorina</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:basmalashatyeh@gmail.com">
-    <img src="https://img.shields.io/badge/✉_Say_Hi-D4789A?style=for-the-badge&labelColor=B85C7E" />
-  </a>
-  <a href="https://www.linkedin.com/in/basmalash">
-    <img src="https://img.shields.io/badge/🤝_Connect-B85C7E?style=for-the-badge&labelColor=8E3D5C" />
-  </a>
-</p>
-
-<!-- 🌷 Wave footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,12&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20✿&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=D4789A&style=flat-square" />
 </p>
