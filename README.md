@@ -152,14 +152,36 @@ I'm a **CAP-AI student** at **An-Najah National University**, passionate about b
 </p>
 
 
-## <samp>Let's Connect</samp>
+## <samp>💌 Let's Connect</samp>
 
-Always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**.
+<p align="center">
+  Always open to discussing <b>machine learning</b>, <b>research opportunities</b>, or <b>collaborative projects</b>.
+</p>
 
-&nbsp;&nbsp;&nbsp;✉&nbsp;&nbsp;**basmalashatyeh@gmail.com**
-&nbsp;&nbsp;&nbsp;◌&nbsp;&nbsp;[**LinkedIn**](https://www.linkedin.com/in/basmalash)
+<p align="center">
+  <a href="mailto:basmalashatyeh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D4789A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B85C7E"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/basmalash">
+    <img src="https://img.shields.io/badge/LinkedIn-B85C7E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E3D5C"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Baasmaala">
+    <img src="https://img.shields.io/badge/GitHub-8E3D5C?style=for-the-badge&logo=github&logoColor=white&labelColor=6B2A45"/>
+  </a>
+</p>
 
 <br>
+
+<!-- 🌸 Pink sparkle wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,20,23&height=120&section=footer&text=&fontAlignY=70&animation=twinkling" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122003-1c759d9e-9c52-4ca7-b9da-83a6e1bd5c30.png" width="40"/>
+</p>
 
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight."</i><br>
@@ -167,5 +189,15 @@ Always open to discussing **machine learning**, **research opportunities**, or *
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d6e4d0d4d8a8.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="60%" height="3"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d6e4d0d4d8a8.gif" width="60"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=D4789A&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Baasmaala?label=Followers&style=flat-square&color=D4789A&labelColor=B85C7E"/>
+</p>
+
+<p align="center">
 </p>
