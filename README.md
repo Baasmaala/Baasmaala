@@ -10,9 +10,16 @@
   <img src="https://img.shields.io/badge/Location-Palestine-149954?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
+<!-- 🎾 Bouncing ball animation -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
 ---
 
 ### 🎓 About Me
+
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a **CAP-AI student** at **An-Najah National University** I'm passionate about building intelligent systems that solve real-world problems — from deep learning architectures to data-driven insights.
 
@@ -21,6 +28,7 @@ I'm a **CAP-AI student** at **An-Najah National University** I'm passionate abou
 - 💡 Driven by curiosity in **computer vision, NLP, and recommender systems**
 - 🌍 Bilingual: **Arabic** (native) · **English** (fluent)
 
+<br clear="right"/>
 
 ### 🛠️ Tech Stack
 
@@ -60,6 +68,7 @@ I'm a **CAP-AI student** at **An-Najah National University** I'm passionate abou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 ---
 
 ### 🧩 Core Competencies
@@ -73,6 +82,10 @@ I'm a **CAP-AI student** at **An-Najah National University** I'm passionate abou
 🐍 Python Development    ████████████████░░░░   OOP · Scientific Computing · Notebooks
 ```
 
+<!-- 🐍 Animated snake eating contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ### 📊 GitHub Stats
 
@@ -92,6 +105,11 @@ I'm a **CAP-AI student** at **An-Najah National University** I'm passionate abou
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baasmaala&theme=tokyonight&utcOffset=2" />
 </p>
 
+<!-- 🎾 Another bouncing ball divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
 ### 📫 Let's Connect
 
 I'm always open to discussing **machine learning**, **research opportunities**, or **collaborative projects**. Feel free to reach out!
@@ -102,3 +120,8 @@ I'm always open to discussing **machine learning**, **research opportunities**, 
 ---
 
 <p align="center"><i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i></p>
+
+<!-- 👀 Profile view counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Baasmaala&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
+</p>
